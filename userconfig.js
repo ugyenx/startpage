@@ -21,9 +21,9 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
-              name: "classroom",
-              url: "https://classroom.google.com/u/1/",
-              icon: "books",
+              name: "Football",
+              url: "https://livetv.sx/enx/",
+              icon: "ball-football",
               icon_color: palette.green,
             },
             {
@@ -32,6 +32,7 @@ const default_config = {
               icon: "file-text",
               icon_color: palette.blue,
             },
+
           ],
         },
         {
@@ -50,9 +51,9 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "twitter",
-              url: "https://x.com",
-              icon: "brand-x",
+              name: "roadmap",
+              url: "https://roadmap.sh/",
+              icon: "timeline",
               icon_color: palette.text,
             },
           ],
@@ -73,9 +74,9 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
-              name: "hacker-news",
-              url: "https://news.ycombinator.com",
-              icon: "news",
+              name: "fronend-mistake",
+              url: "https://www.frontendjoy.com/p/struggling-to-learn-react-or-any-javascript-framework-here-are-7-mistakes-holding-you-back-and-what",
+              icon: "file-type-jsx",
               icon_color: palette.peach,
             },
           ],
@@ -96,9 +97,9 @@ const default_config = {
               icon_color: palette.red,
             },
             {
-              name: "udemy",
-              url: "https://www.udemy.com/home/my-courses/learning/",
-              icon: "certificate",
+              name: "react",
+              url: "https://v1.scrimba.com/scrim/cepwWUp?pl=p7P5Hd",
+              icon: "brand-react-native",
               icon_color: palette.lavender,
             },
           ]
